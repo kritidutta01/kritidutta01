@@ -15,4 +15,4 @@ Writing about it at [kritidutta.dev](https://kritidutta.dev) · Reach me at [dat
 
 ---
 
-*Currently building:* sec-cli — week 1/13 · *Focus:* EDGAR table parser
+*Currently building:* sec-cli — week 3/13 · *Focus:* sec-cli parser for sec filings 
