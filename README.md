@@ -11,7 +11,7 @@ Currently shipping a 13-week portfolio sprint (May → Aug 2026):
 - **FinBench** — open benchmark for financial LLM reasoning *(launches Aug 2026)*
 - **Tearsheet** — local-first AI analyst with deterministic replay *(launches Aug 2026)*
 
-Writing about it at [kritidutta.dev](https://kritidutta.dev) · Reach me at [data.kriti.dutta@gmail.com](mailto:data.kriti.dutta@gmail.com)
+Writing about it at [kritidutta.dev](https://kritidutta.com) · Reach me at [data.kriti.dutta@gmail.com](mailto:data.kriti.dutta@gmail.com)
 
 ---
 
